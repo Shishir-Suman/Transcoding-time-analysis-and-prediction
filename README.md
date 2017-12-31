@@ -1,2 +1,3 @@
-# Transcoding-time-analysis-and-prediction
-With recent technological advancements in entertainment and their adoption by a wider section of society, digital media has evolved in numerous ways. Companies working at the cross-section of this industry have developed their own devices and operating formats, and various content representation formats have therefore evolved. The need of interoperability has become paramount in the industry. Especially in computer vision, including videos and images, where consumers need seamless interaction between different devices, transcoding between different media formats and associated time are key concerns. The project uses a video dataset to understand the relationship between transcoding time and video characteristics. Results of such a study will be crucial for understanding the resource requirements and providing an efficient transcoding service.
+Project Team Members: Shishir Suman, Minghan Xu and Byron Kim
+
+Original Dataset can be found: https://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset
